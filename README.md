@@ -81,6 +81,7 @@ kill -9 <PID>
 ## top 명령어
 top 명령어는 리눅스 시스템의 CPU 사용량, 메모리 사용량 등 전반적인 상황을 실시간으로 모니터링할 수 있는 명령어입니다.
 터미널에서 top 명령어를 입력하면 아래 그림과 같이 출력됩니다.
+!https://github.com/bakyunjae/-SW/blob/main/top.png
 
 top 명령어를 사용했을 때 나오는 결과에 대해 설명하자면 다음과 같습니다.
 
